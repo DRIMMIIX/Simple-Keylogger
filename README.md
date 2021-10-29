@@ -1,2 +1,4 @@
 # Simple-Keylogger
-Its a simple keylogger that i made in python
+Its a simple keylogger wich was written in python
+
+
